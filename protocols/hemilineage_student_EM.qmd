@@ -12,11 +12,19 @@ author:
 
 This tutorial guides you through the Neuroglancer interface to examine the escape circuit.
 
-First, you will first visualize the key neurons of this survival response. The giant fiber neurons that descend from the brain into the ventral nerve cord relay the sensory input that detects a looming stimulus, and relays it to the motor neurons that trigger the jump response. These motorneurons are called the tergotrochanteral motor neurons (TTMn's), after the tergotrochanter muscle they innervate, which is a leg extensor muscle.
+First, you will visualize the key neurons of this survival response. The giant fiber neurons relay a danger signal from the brain where the threat is detected to the ventral nerve cord (the fly's spinal cord). This activates the motor neurons that trigger the jump movement so that the fly moves away from the danger. These motorneurons are called the tergotrochanteral motor neurons (TTMn's), after the tergotrochanter muscle they innervate, which is a leg extensor muscle.
 
 Follow this [link](https://clio-ng.janelia.org/#!gs://flyem-user-links/short/GF-hemibrain.json) to look at the brain, and see the location of the cell bodies of the giant fiber neurons.
 
-Next, you will investigate how neurons populations derived from different stem cells interact with these same motor neurons contribute to premotor control of the tergotrochanteral motor neuron (TTMn)
+Next, you will investigate how neurons populations derived from different stem cells interact with these same motor neurons contribute. In essence, you are tracing the premotor control of the tergotrochanteral motor neuron (TTMn). We call these neurons presynaptic partners.
+
+::: {#fig-escapre_response}
+
+![Cartoon of the Drosophila escape response.](assets/hemilineage/escape_response.png)
+
+Figure: Schematic of the giant fiber escape response in *Drosophila*. Bilateral giant fiber interneurons descend from the brain through the neck into the "spinal cord" (VNC) and terminate in the T2 neuropil, where they synapse onto tergotrochanteral motor neurons (TTMns) that drive jump muscle activation to jump away from danger.
+
+:::
 
 ### Overview of Dataset (for reference)
 
