@@ -1,7 +1,7 @@
 ---
 title: Preparation of all-trans retinal food
 author:
-  - name: Jelly hubertus Maria Soffers
+  - name: Jelly Hubertus Maria Soffers
     email: j.soffers@umkc.edu
     corresponding: true
     orcid: 0000-0002-1051-7375
