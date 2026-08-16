@@ -2,9 +2,9 @@
 
 This repository holds the supplemental materials for the following manuscript (currently being drafted):
 
-> **From Development to Connectomics: A Scaffolded _Drosophila_ Curriculum for Understanding Brain Wiring and Behavior**
+> **Pueblo Brain Science: A Community-Centered _Drosophila_ Neuroscience Curriculum Connecting Development, Connectomics, and Behavior**
 >
-> Jelly Hubertus Maria Soffers, Matthew Clark, Durafshan Sakeena Syed, Frank Loesche, Budhaditya Chowdhury, & Syed Mubarak Hussain
+> Jelly Hubertus Maria Soffers, Matthew Q. Clark, Durafshan Sakeena Syed, Frank Loesche, Budhaditya Chowdhury, Lakshman Abhilash, Mubarak Hussain Syed
 
 The published site is available at <https://floesche.github.io/drosophila-curriculum>.
 
