@@ -6,7 +6,7 @@ This repository holds the supplemental materials for the following manuscript (c
 >
 > Jelly Hubertus Maria Soffers, Matthew Q. Clark, Durafshan Sakeena Syed, Frank Loesche, Budhaditya Chowdhury, Lakshman Abhilash, Mubarak Hussain Syed
 
-The published site is available at <https://floesche.github.io/drosophila-curriculum>.
+The published site is available at <https://pueblo-brain-science.github.io/drosophila-curriculum>.
 
 ## Editing the site locally
 
@@ -45,7 +45,7 @@ cd ~/Documents        # or any folder you prefer
 Then clone the repository and start the preview:
 
 ```bash
-git clone https://github.com/floesche/drosophila-curriculum.git
+git clone https://github.com/Pueblo-Brain-Science/drosophila-curriculum.git
 cd drosophila-curriculum
 pixi run preview
 ```
@@ -74,7 +74,7 @@ Output goes to `public/`.
 
 You can edit files without installing anything locally:
 
-1. Go to the repository at <https://github.com/floesche/drosophila-curriculum>
+1. Go to the repository at <https://github.com/Pueblo-Brain-Science/drosophila-curriculum>
 2. Navigate to the file you want to edit (e.g., `protocols/hemilineage.qmd`)
 3. Click the **pencil icon** (Edit this file) in the top-right corner of the file view
 4. Make your changes in the editor
@@ -106,7 +106,7 @@ Use `git status` at any time to see which files have been modified.
 
 If you run into problems and want to ask ChatGPT, Copilot, Claude, or another LLM for help, include the following context in your prompt so it can give you accurate advice:
 
-> I'm working with a Quarto website project that uses **pixi** (https://pixi.sh/) to manage all dependencies. The repository is at https://github.com/floesche/drosophila-curriculum. pixi installs Quarto, Python, and everything else automatically. I do not install these tools separately. I run all commands through pixi (e.g., `pixi run preview`, `pixi run render`). The project configuration is in `_quarto.yml` and dependencies are defined in `pixi.toml`.
+> I'm working with a Quarto website project that uses **pixi** (https://pixi.sh/) to manage all dependencies. The repository is at https://github.com/Pueblo-Brain-Science/drosophila-curriculum. pixi installs Quarto, Python, and everything else automatically. I do not install these tools separately. I run all commands through pixi (e.g., `pixi run preview`, `pixi run render`). The project configuration is in `_quarto.yml` and dependencies are defined in `pixi.toml`.
 >
 > [Paste your error message here]
 
